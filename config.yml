@@ -1,0 +1,6 @@
+additionalProperties:
+  packageName: citysim_slurm
+  library: asyncio
+  #modelPropertyNaming: snake_case
+files:
+  #README.md: {}
